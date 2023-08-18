@@ -1,0 +1,3 @@
+'when-macro-correct', (0, 70)
+'switch-correct', (512, 70)
+'eval-calls-correct', (1024, 70)
